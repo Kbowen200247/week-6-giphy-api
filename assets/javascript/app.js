@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function(){
       // Initial array of animes
       var animes = ["Sailor Moon Crystal", "Fairy Tail", "Yowamushi", "kuroko no basket", "Chihayafuru", "Yona of the Dawn", "Blue Exorcist"];
 
