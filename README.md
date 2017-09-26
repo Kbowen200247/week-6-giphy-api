@@ -45,4 +45,4 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
 7. Rejoice! You just made something really cool.
 
-<img width="800" alt="giphy api" src="https://kbowen200247.github.io/week-6-aiphy-api/assets/images/giphy_api.png">
+<img width="800" alt="giphy api" src="https://kbowen200247.github.io/week-6-giphy-api/assets/images/giphy_api.png">
